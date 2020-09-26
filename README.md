@@ -1,2 +1,2 @@
 # Laravel-Tuduu-Web
-Laravel webapp with MySql Database
+Laravel webapp with Postgres Database
